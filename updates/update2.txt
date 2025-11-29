@@ -1,0 +1,3 @@
+UPDATE tb_treino_exercicio
+SET carga = 65.0
+WHERE id_treino = 1 AND id_exercicio = 1;
