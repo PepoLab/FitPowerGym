@@ -1,0 +1,4 @@
+INSERT INTO tb_avaliacao_fisica (id_aluno, data_avaliacao, peso, altura, percentual_gordura, massa_magra, observacoes) VALUES
+(1, '2025-01-20', 90.0, 1.68, 22.0, 70.2, 'Boa evolução nos últimos treinos'),
+(2, '2025-01-22', 65.0, 1.62, 18.5, 53.0, 'Sugestão: aumentar intensidade cardio'),
+(3, '2025-01-25', 82.0, 1.75, 20.0, 65.6, 'Foco em força máxima');

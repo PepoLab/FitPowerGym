@@ -1,0 +1,6 @@
+INSERT INTO tb_exercicio (nome, grupo_muscular, descricao) VALUES
+('Supino Reto', 'Peito', 'Execução no banco reto com barra'),
+('Agachamento Livre', 'Pernas', 'Agachamento com barra nas costas'),
+('Remada Curvada', 'Costas', 'Puxada com barra inclinada'),
+('Desenvolvimento Militar', 'Ombros', 'Barra acima da cabeça'),
+('Rosca Direta', 'Braços', 'Rosca com barra reta');
