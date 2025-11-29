@@ -1,8 +1,0 @@
-SELECT 
-    id_presenca,
-    data_entrada,
-    data_saida
-FROM tb_presenca
-WHERE id_aluno = 1
-ORDER BY data_entrada DESC
-LIMIT 5;

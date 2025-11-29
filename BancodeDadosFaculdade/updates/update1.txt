@@ -1,3 +1,0 @@
-UPDATE tb_aluno
-SET telefone = '11999998888'
-WHERE id_aluno = 1;

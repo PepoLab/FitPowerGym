@@ -1,2 +1,0 @@
-DELETE FROM tb_treino_exercicio
-WHERE id_treino = 1 AND id_exercicio = 5;

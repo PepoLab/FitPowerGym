@@ -1,2 +1,0 @@
-DELETE FROM tb_pagamento
-WHERE id_pagamento = 3;

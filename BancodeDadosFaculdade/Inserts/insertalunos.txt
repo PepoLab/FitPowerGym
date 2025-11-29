@@ -1,4 +1,0 @@
-INSERT INTO tb_aluno (nome, data_nascimento, email, telefone, data_matricula, id_plano, id_instrutor) VALUES
-('Pedro Rocha', '2001-04-15', 'pedro@gmail.com', '11987654321', '2025-01-10', 1, 1),
-('Ana Caroline', '1999-09-20', 'ana@gmail.com', '11999887766', '2025-01-12', 2, 2),
-('Marcos Silva', '1995-05-02', 'marcos@gmail.com', '11988776655', '2025-01-15', 1, 3);

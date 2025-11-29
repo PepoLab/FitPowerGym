@@ -1,7 +1,0 @@
-SELECT 
-    a.nome AS aluno,
-    i.nome AS instrutor,
-    p.nome AS plano
-FROM tb_aluno a
-JOIN tb_instrutor i ON a.id_instrutor = i.id_instrutor
-JOIN tb_plano p ON a.id_plano = p.id_plano;
