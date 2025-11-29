@@ -1,0 +1,4 @@
+INSERT INTO tb_treino (id_aluno, id_instrutor, data_criacao, objetivo, observacoes) VALUES
+(1, 1, '2025-01-20', 'Hipertrofia', 'Priorizar peito e tríceps'),
+(2, 2, '2025-01-22', 'Resistência', 'Carga moderada, mais repetições'),
+(3, 3, '2025-01-25', 'Força', 'Foco em movimentos básicos compostos');

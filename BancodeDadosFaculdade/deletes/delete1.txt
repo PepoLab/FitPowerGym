@@ -1,0 +1,2 @@
+DELETE FROM tb_presenca
+WHERE id_presenca = 3;

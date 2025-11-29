@@ -1,0 +1,7 @@
+SELECT 
+    a.nome AS aluno,
+    AVG(te.carga) AS media_carga
+FROM tb_treino_exercicio te
+JOIN tb_treino t ON te.id_treino = t.id_treino
+JOIN tb_aluno a ON t.id_aluno = a.id_aluno
+GROUP BY a.nome;

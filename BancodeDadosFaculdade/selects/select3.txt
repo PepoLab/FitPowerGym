@@ -1,0 +1,6 @@
+SELECT 
+    id_aluno,
+    nome,
+    data_matricula
+FROM tb_aluno
+ORDER BY data_matricula ASC;

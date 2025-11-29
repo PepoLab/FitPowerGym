@@ -1,0 +1,3 @@
+UPDATE tb_pagamento
+SET status = 'Atrasado'
+WHERE id_pagamento = 2;
